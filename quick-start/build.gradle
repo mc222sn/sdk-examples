@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'org.sdk-examples.quick-start'
+group 'org.kryptokrona.sdkexample'
 version '1.0.0'
 
 repositories {
