@@ -3,13 +3,15 @@ Example code for usage of Kryptokrona Java SDK. This is a submodule to the Krypt
 
 ## Usage
 
-To to start open up an example (e.g. "quick-start") in IntelliJ and it will automatically install all neccessary dependencies.
+To to start open up an example (e.g. "quick-start") in IntelliJ and it will automatically install all necessary dependencies.
 
 Then use Gradle to build:
 
 - `./gradlew build`
 
-Then right click on the file inside `src/main/java/org/sdk-example/Main.java` and run. 
+Then right click on the file inside `src/main/java/org/kryptokrona/sdkexample/Main.java` and run. 
+
+NOTE: all examples should have the same structure for simplicity. 
 
 ## Contribute
 
